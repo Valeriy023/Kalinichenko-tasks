@@ -8,3 +8,13 @@ C:\Users\infor\source\repos\Catch_me\Catch_me\obj\Debug\Catch_me.csproj.Generate
 C:\Users\infor\source\repos\Catch_me\Catch_me\obj\Debug\Catch_me.csproj.CoreCompileInputs.cache
 C:\Users\infor\source\repos\Catch_me\Catch_me\obj\Debug\Catch_me.exe
 C:\Users\infor\source\repos\Catch_me\Catch_me\obj\Debug\Catch_me.pdb
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\bin\Debug\Catch_me.exe.config
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\bin\Debug\Catch_me.exe
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\bin\Debug\Catch_me.pdb
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.Form1.resources
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.Properties.Resources.resources
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.csproj.GenerateResource.cache
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.exe
+C:\Users\infor\source\repos\Valera\Catch_me\Catch_me\obj\Debug\Catch_me.pdb
