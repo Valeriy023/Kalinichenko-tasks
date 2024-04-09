@@ -24,5 +24,10 @@ namespace Catch_me
             int y_val = rnd.Next(0, 600 - this.btnYes.Size.Height * 2);
             this.btnYes.Location = new System.Drawing.Point(x_val, y_val);
         }
+
+        private void btnNo_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }
