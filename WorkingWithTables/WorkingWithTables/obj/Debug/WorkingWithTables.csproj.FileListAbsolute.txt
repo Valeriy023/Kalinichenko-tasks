@@ -1,0 +1,10 @@
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\bin\Debug\WorkingWithTables.exe.config
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\bin\Debug\WorkingWithTables.exe
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\bin\Debug\WorkingWithTables.pdb
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.csproj.AssemblyReference.cache
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.Form1.resources
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.Properties.Resources.resources
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.csproj.GenerateResource.cache
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.csproj.CoreCompileInputs.cache
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.exe
+C:\Users\infor\source\repos\WorkingWithTables\WorkingWithTables\obj\Debug\WorkingWithTables.pdb

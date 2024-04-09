@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\infor\\source\\repos\\WorkingWithTables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D14493-9DA6-4BDD-92F9-0BCD8025EFD1}|WorkingWithTables\\WorkingWithTables.csproj|c:\\users\\infor\\source\\repos\\workingwithtables\\workingwithtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1D14493-9DA6-4BDD-92F9-0BCD8025EFD1}|WorkingWithTables\\WorkingWithTables.csproj|solutionrelative:workingwithtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1D14493-9DA6-4BDD-92F9-0BCD8025EFD1}|WorkingWithTables\\WorkingWithTables.csproj|C:\\Users\\infor\\source\\repos\\WorkingWithTables\\workingwithtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1D14493-9DA6-4BDD-92F9-0BCD8025EFD1}|WorkingWithTables\\WorkingWithTables.csproj|solutionrelative:workingwithtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\infor\\source\\repos\\WorkingWithTables\\WorkingWithTables\\Form1.cs",
+              "RelativeDocumentMoniker": "WorkingWithTables\\Form1.cs",
+              "ToolTip": "C:\\Users\\infor\\source\\repos\\WorkingWithTables\\WorkingWithTables\\Form1.cs",
+              "RelativeToolTip": "WorkingWithTables\\Form1.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAowFcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:57:30.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\infor\\source\\repos\\WorkingWithTables\\WorkingWithTables\\Form1.cs",
+              "RelativeDocumentMoniker": "WorkingWithTables\\Form1.cs",
+              "ToolTip": "C:\\Users\\infor\\source\\repos\\WorkingWithTables\\WorkingWithTables\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WorkingWithTables\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T08:48:47.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
