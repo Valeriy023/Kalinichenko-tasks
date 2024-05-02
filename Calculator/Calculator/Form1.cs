@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement; 
 
 namespace Calculator
 {
@@ -130,29 +130,42 @@ namespace Calculator
         {
             if (tbMain.Text != "" && !tbMain.Text.Contains('+'))
                 tbMain.Text += "+";
+            buttonPlus.Enabled = false;
+            buttonMinus.Enabled = false;
+            buttonMultiply.Enabled = false;
+            buttonDivision.Enabled = false;
         }
 
         private void buttonEquals_Click(object sender, EventArgs e)
         {
+            buttonPlus.Enabled = true;
+            buttonMinus.Enabled = true;
+            buttonMultiply.Enabled = true;
+            buttonDivision.Enabled = true;
+
             //int expression = int.Parse(tbMain.Text);
             char[] mathsigns = { '+', '-', '/', '*' };
+            char[] mathsigns_wo_minus = { '+', '/', '*' };
             int mathsign_index = tbMain.Text.IndexOfAny(mathsigns);
             string first_number = "";
             string second_number = "";
+            if (tbMain.Text.StartsWith("-"))
+                mathsign_index = tbMain.Text.IndexOfAny(mathsigns_wo_minus);
             if (mathsign_index > 0)
             {
                 first_number = tbMain.Text.Substring(0, mathsign_index);
                 second_number = tbMain.Text.Substring(mathsign_index + 1);
             }
             else mathsign_index = 0;
+
             //double result;
-            //Console.WriteLine(second_number);
+            //Console.WriteLine(mathsign_index);
             if (tbMain.Text.Contains('+'))
             {
                 double result = double.Parse(first_number) + double.Parse(second_number);
                 tbMain.Text = result.ToString();
             }
-            if (tbMain.Text.Contains('-'))
+            if (tbMain.Text.Contains('-') & !tbMain.Text.StartsWith("-"))
             {
                 double result = double.Parse(first_number) - double.Parse(second_number);
                 tbMain.Text = result.ToString();
@@ -164,7 +177,7 @@ namespace Calculator
             }
             if (tbMain.Text.Contains('/'))
             {
-                if (second_number != "0")
+                if (double.Parse(second_number) != 0)
                 {
                     double result = double.Parse(first_number) / double.Parse(second_number);
                     tbMain.Text = result.ToString();
@@ -175,19 +188,27 @@ namespace Calculator
 
         private void buttonMinus_Click(object sender, EventArgs e)
         {
-            char[] mathsigns = { '+', '-', '/', '*' };
+            char[] mathsigns = { '+', '/', '*' };
             int mathsign_index = tbMain.Text.IndexOfAny(mathsigns);
 
             if (!tbMain.Text.Contains('-'))
                 tbMain.Text += "-";
-            if (mathsign_index != -1 && !tbMain.Text.Substring(0, mathsign_index).Contains('-') || !tbMain.Text.Substring(mathsign_index + 1).Contains('-'))
-                tbMain.Text += "-";
+            //if (mathsign_index != -1 && !tbMain.Text.Substring(0, mathsign_index).Contains('-') || !tbMain.Text.Substring(mathsign_index + 1).Contains('-'))
+            //tbMain.Text += "-";
+            //buttonPlus.Enabled = false;
+            buttonMinus.Enabled = false;
+            //buttonMultiply.Enabled = false;
+            //buttonDivision.Enabled = false;
         }
 
         private void buttonMultiply_Click(object sender, EventArgs e)
         {
             if (tbMain.Text != "" && !tbMain.Text.Contains('*'))
                 tbMain.Text += "*";
+            buttonPlus.Enabled = false;
+            buttonMinus.Enabled = false;
+            buttonMultiply.Enabled = false;
+            buttonDivision.Enabled = false;
         }
 
         private void buttonDivision_Click(object sender, EventArgs e)
@@ -195,6 +216,10 @@ namespace Calculator
             if (tbMain.Text != "" && !tbMain.Text.Contains('/'))
                 tbMain.Text += "/";
             labelError.Visible = false;
+            buttonPlus.Enabled = false;
+            buttonMinus.Enabled = false;
+            buttonMultiply.Enabled = false;
+            buttonDivision.Enabled = false;
         }
     }
 }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|c:\\users\\infor\\source\\repos\\valera\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Calculator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C92C035-A854-4828-925F-A90FC97B4ACA}|Calculator\\Calculator.csproj|solutionrelative:Calculator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.Designer.cs",
@@ -38,7 +38,8 @@
               "RelativeToolTip": "Calculator\\Form1.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-01T10:32:37.28Z"
+              "WhenOpened": "2024-04-01T10:32:37.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,21 +49,22 @@
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
               "ToolTip": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs",
               "RelativeToolTip": "Calculator\\Form1.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAUwLgAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-29T08:54:25.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs",
               "RelativeDocumentMoniker": "Calculator\\Form1.cs",
-              "ToolTip": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs",
-              "RelativeToolTip": "Calculator\\Form1.cs",
+              "ToolTip": "C:\\Users\\infor\\source\\repos\\Valera\\Calculator\\Calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Calculator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-29T07:16:48.822Z"
+              "WhenOpened": "2024-03-29T07:16:48.822Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
