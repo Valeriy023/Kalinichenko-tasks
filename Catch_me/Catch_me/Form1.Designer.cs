@@ -51,16 +51,17 @@
             this.btnNo.TabIndex = 1;
             this.btnNo.Text = "НЕТ";
             this.btnNo.UseVisualStyleBackColor = true;
+            this.btnNo.Click += new System.EventHandler(this.btnNo_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(177, 165);
+            this.label1.Location = new System.Drawing.Point(166, 163);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(427, 31);
+            this.label1.Size = new System.Drawing.Size(467, 31);
             this.label1.TabIndex = 2;
-            this.label1.Text = "Я сегодня все успею сделать?";
+            this.label1.Text = "Виктор поддержит мое решение?";
             // 
             // Form1
             // 
